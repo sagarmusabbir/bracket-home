@@ -1,6 +1,6 @@
 # Bracket home
 
-![Nowab Manjil Media](https://img.shields.io/badge/Nowab%20Manjil-Media-blue)
+![Bracket Home](https://img.shields.io/badge/Bracket%20Home-blue)
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -35,8 +35,8 @@ _Screenshots will be added soon_
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sagarmusabbir/nowab-manjil-media.git
-   cd nowab-manjil-media
+   git clone https://github.com/sagarmusabbir/bracket-home.git
+   cd bracket-home
    ```
 
 2. Install dependencies:
